@@ -15,7 +15,7 @@ namespace JsonPraticeProblem
         {
             string jsonPath = @"D:\Bridgelabz\JsonPraticeProblem\JsonPraticeProblem\JsonTextFile.json";
 
-            //Collection intializer
+ 
             List<Person> person = new List<Person>();
             person.Add(new Person() { PersonId = 12, Name = "Luv", Address = "Dehli" });
             person.Add(new Person() { PersonId = 13, Name = "Atul", Address = "Ajmer" });
